@@ -26,3 +26,4 @@ For IBM WatsonX AI:
 - WATSONX_URL
 - WATSONX_PROJECT_ID
 
+&copy; IBM Skills Network
